@@ -1,32 +1,29 @@
 import java.util.*;
-class Second_Maximum
+class Second_Max
 {
     public static void main(String[] args) {
         Scanner scan=new Scanner(System.in);
         int[] arr=new int[10];
-        int p=0;
-        int s=Integer.MIN_VALUE;
+        int max=arr[0];
         for(int i=0;i<arr.length;i++)
         {
             arr[i]=scan.nextInt();
         }
         for(int i=0;i<arr.length;i++)
         {
-            if(s<arr[i])
+            if(max<arr[i])
             {
-                s=arr[i];
-                p=i;
+                max=arr[i];
             }
         }
-        arr[p]=Integer.MIN_VALUE;
-        s=Integer.MIN_VALUE;
+        int smax=arr[0];
         for(int i=0;i<arr.length;i++)
         {
-            if(s<arr[i])
+            if(smax<arr[i]&&arr[i]!=max)
             {
-                s=arr[i];
+                smax=arr[i];
             }
         }
-        System.out.println("Second Largest Element is : "+s);
+        System.out.println("Second Largest Element is : "+smax);
     }
 }
