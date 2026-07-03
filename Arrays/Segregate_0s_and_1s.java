@@ -1,28 +1,31 @@
 import java.util.*;
-class Segregate_0s_and_1s
+class Rough
 {
     public static void main(String[] args) {
         Scanner scan=new Scanner(System.in);
-        int[] arr=new int[10];
-        int Zeroes=0;
-        System.out.println("Enter Elements only as 0s and 1s ");
+        int[] a=new int[10];
         for(int i=0;i<10;i++)
         {
-            arr[i]=scan.nextInt();
-            if(arr[i]==0)
-            Zeroes++;
+            a[i]=scan.nextInt();
         }
-        for(int i=0;i<Zeroes;i++)
+        int i=0;
+        int j=a.length-1;
+        while(i<j)
         {
-            arr[i]=0;
+            if(a[i]==0)
+                i++;
+            else if(a[j]==1)
+                j--;
+            else if(a[i]==1&&a[j]==0)
+            {
+                int temp =a[i];
+                a[i]=a[j];
+                a[j]=temp;
+            }
         }
-        for(int i=Zeroes;i<arr.length;i++)
+        for(int ele:a)
         {
-            arr[i]=1;
-        }
-        for(int i=0;i<arr.length;i++)
-        {
-            System.out.print(arr[i]+" ");
+            System.out.println(ele+" ");
         }
     }
 }
