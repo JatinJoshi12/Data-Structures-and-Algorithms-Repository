@@ -21,6 +21,8 @@ class Rough
                 int temp =a[i];
                 a[i]=a[j];
                 a[j]=temp;
+                i++;
+                j--;
             }
         }
         for(int ele:a)

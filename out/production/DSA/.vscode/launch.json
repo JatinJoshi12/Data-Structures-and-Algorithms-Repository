@@ -1,0 +1,360 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Two_Sum_Better_Approach",
+      "request": "launch",
+      "mainClass": "Two_Sum_Better_Approach",
+      "projectName": "DSA_e1606180"
+    },
+    {
+      "type": "java",
+      "name": "Bubble_Sort",
+      "request": "launch",
+      "mainClass": "Bubble_Sort",
+      "projectName": "DSA_e1606180"
+    },
+    {
+      "type": "java",
+      "name": "Selection_Sort",
+      "request": "launch",
+      "mainClass": "Selection_Sort",
+      "projectName": "DSA_e1606180"
+    },
+    {
+      "type": "java",
+      "name": "Practise",
+      "request": "launch",
+      "mainClass": "Practise",
+      "projectName": "DSA_e1606180"
+    },
+    {
+      "type": "java",
+      "name": "RoughWork",
+      "request": "launch",
+      "mainClass": "RoughWork",
+      "projectName": "DSA_e1606180"
+    },
+    {
+      "type": "java",
+      "name": "sss",
+      "request": "launch",
+      "mainClass": "sss",
+      "projectName": "DSA_e1606180"
+    },
+    {
+      "type": "java",
+      "name": "Binary_Triangle",
+      "request": "launch",
+      "mainClass": "Binary_Triangle",
+      "projectName": "DSA_e1606180"
+    },
+    {
+      "type": "java",
+      "name": "Pattern_2",
+      "request": "launch",
+      "mainClass": "Pattern_2",
+      "projectName": "DSA_e1606180"
+    },
+    {
+      "type": "java",
+      "name": "Bridge",
+      "request": "launch",
+      "mainClass": "Bridge",
+      "projectName": "DSA_e1606180"
+    },
+    {
+      "type": "java",
+      "name": "Rough",
+      "request": "launch",
+      "mainClass": "Rough",
+      "projectName": "DSA_e1606180"
+    },
+    {
+      "type": "java",
+      "name": "Merge_Two_Sorted_Array",
+      "request": "launch",
+      "mainClass": "Merge_Two_Sorted_Array",
+      "projectName": "DSA_2bde1453"
+    },
+    {
+      "type": "java",
+      "name": "Reverse_ArrayList",
+      "request": "launch",
+      "mainClass": "Reverse_ArrayList",
+      "projectName": "DSA_2bde1453"
+    },
+    {
+      "type": "java",
+      "name": "Reverse",
+      "request": "launch",
+      "mainClass": "Reverse",
+      "projectName": "DSA_2bde1453"
+    },
+    {
+      "type": "java",
+      "name": "Reverse",
+      "request": "launch",
+      "mainClass": "ArrayList.Reverse",
+      "projectName": "DSA_2bde1453"
+    },
+    {
+      "type": "java",
+      "name": "Wave_Array",
+      "request": "launch",
+      "mainClass": "Wave_Array",
+      "projectName": "DSA_2bde1453"
+    },
+    {
+      "type": "java",
+      "name": "Segregate_0s_and_1s",
+      "request": "launch",
+      "mainClass": "Segregate_0s_and_1s",
+      "projectName": "DSA_2bde1453"
+    },
+    {
+      "type": "java",
+      "name": "Missing_In_Array",
+      "request": "launch",
+      "mainClass": "Missing_In_Array",
+      "projectName": "DSA_2bde1453"
+    },
+    {
+      "type": "java",
+      "name": "Rotate_Array",
+      "request": "launch",
+      "mainClass": "Rotate_Array",
+      "projectName": "DSA_2bde1453"
+    },
+    {
+      "type": "java",
+      "name": "Reverse_Array",
+      "request": "launch",
+      "mainClass": "Reverse_Array",
+      "projectName": "DSA_2bde1453"
+    },
+    {
+      "type": "java",
+      "name": "Second_Max",
+      "request": "launch",
+      "mainClass": "Second_Max",
+      "projectName": "DSA_2bde1453"
+    },
+    {
+      "type": "java",
+      "name": "Second_Maximum",
+      "request": "launch",
+      "mainClass": "Second_Maximum",
+      "projectName": "DSA_2bde1453"
+    },
+    {
+      "type": "java",
+      "name": "Two_Sum",
+      "request": "launch",
+      "mainClass": "Two_Sum",
+      "projectName": "DSA_2bde1453"
+    },
+    {
+      "type": "java",
+      "name": "Two_Sum",
+      "request": "launch",
+      "mainClass": "Arrays.Two_Sum",
+      "projectName": "DSA_2bde1453"
+    },
+    {
+      "type": "java",
+      "name": "Print_Negative_Values_Of_Array",
+      "request": "launch",
+      "mainClass": "Arrays.Print_Negative_Values_Of_Array",
+      "projectName": "DSA_2bde1453"
+    },
+    {
+      "type": "java",
+      "name": "Number_Spiral",
+      "request": "launch",
+      "mainClass": "Number_Spiral",
+      "projectName": "DSA_2bde1453"
+    },
+    {
+      "type": "java",
+      "name": "Bridge",
+      "request": "launch",
+      "mainClass": "Bridge",
+      "projectName": "DSA_2bde1453"
+    },
+    {
+      "type": "java",
+      "name": "Pyramid",
+      "request": "launch",
+      "mainClass": "Pyramid",
+      "projectName": "DSA_2bde1453"
+    },
+    {
+      "type": "java",
+      "name": "Space_Triangle",
+      "request": "launch",
+      "mainClass": "Space_Triangle",
+      "projectName": "DSA_2bde1453"
+    },
+    {
+      "type": "java",
+      "name": "Square_Triangle",
+      "request": "launch",
+      "mainClass": "Square_Triangle",
+      "projectName": "DSA_2bde1453"
+    },
+    {
+      "type": "java",
+      "name": "Pattern_4",
+      "request": "launch",
+      "mainClass": "Pattern_4",
+      "projectName": "DSA_2bde1453"
+    },
+    {
+      "type": "java",
+      "name": "Binary_Triangle",
+      "request": "launch",
+      "mainClass": "Binary_Triangle",
+      "projectName": "DSA_2bde1453"
+    },
+    {
+      "type": "java",
+      "name": "Pattern_3",
+      "request": "launch",
+      "mainClass": "Pattern_3",
+      "projectName": "DSA_2bde1453"
+    },
+    {
+      "type": "java",
+      "name": "Pattern_2",
+      "request": "launch",
+      "mainClass": "Pattern_2",
+      "projectName": "DSA_2bde1453"
+    },
+    {
+      "type": "java",
+      "name": "A_Raised_To_Power_B",
+      "request": "launch",
+      "mainClass": "A_Raised_To_Power_B",
+      "projectName": "DSA_2bde1453"
+    },
+    {
+      "type": "java",
+      "name": "Sum_Of_Number_And_Its_Reverse",
+      "request": "launch",
+      "mainClass": "Sum_Of_Number_And_Its_Reverse",
+      "projectName": "DSA_2bde1453"
+    },
+    {
+      "type": "java",
+      "name": "Reverse_Of_Number",
+      "request": "launch",
+      "mainClass": "Reverse_Of_Number",
+      "projectName": "DSA_2bde1453"
+    },
+    {
+      "type": "java",
+      "name": "Rough",
+      "request": "launch",
+      "mainClass": "Rough",
+      "projectName": "DSA_2bde1453"
+    },
+    {
+      "type": "java",
+      "name": "rough",
+      "request": "launch",
+      "mainClass": "rough",
+      "projectName": "DSA_2bde1453"
+    },
+    {
+      "type": "java",
+      "name": "Prime_Number",
+      "request": "launch",
+      "mainClass": "Prime_Number",
+      "projectName": "DSA_2bde1453"
+    },
+    {
+      "type": "java",
+      "name": "Pattern_1",
+      "request": "launch",
+      "mainClass": "Pattern_1",
+      "projectName": "DSA_2bde1453"
+    },
+    {
+      "type": "java",
+      "name": "Random",
+      "request": "launch",
+      "mainClass": "Random",
+      "projectName": "DSA_2bde1453"
+    },
+    {
+      "type": "java",
+      "name": "AP",
+      "request": "launch",
+      "mainClass": "AP",
+      "projectName": "DSA_2bde1453"
+    },
+    {
+      "type": "java",
+      "name": "Print",
+      "request": "launch",
+      "mainClass": "Print",
+      "projectName": "DSA_2bde1453"
+    },
+    {
+      "type": "java",
+      "name": "Smallest_Of_Three_Number",
+      "request": "launch",
+      "mainClass": "Smallest_Of_Three_Number",
+      "projectName": "DSA_2bde1453"
+    },
+    {
+      "type": "java",
+      "name": "Point",
+      "request": "launch",
+      "mainClass": "Point",
+      "projectName": "DSA_2bde1453"
+    },
+    {
+      "type": "java",
+      "name": "Square_Of_A_Number",
+      "request": "launch",
+      "mainClass": "Square_Of_A_Number",
+      "projectName": "DSA_2bde1453"
+    },
+    {
+      "type": "java",
+      "name": "TSA",
+      "request": "launch",
+      "mainClass": "TSA",
+      "projectName": "DSA_2bde1453"
+    },
+    {
+      "type": "java",
+      "name": "ABC",
+      "request": "launch",
+      "mainClass": "ABC",
+      "projectName": "DSA_2bde1453"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/jatin/Desktop/DSA/Basic",
+      "program": "c:/Users/jatin/Desktop/DSA/Basic/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

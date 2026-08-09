@@ -8,7 +8,7 @@ class Reverse_Array
         {
             arr[i]=scan.nextInt();
         }
-        int temp=0;
+        int temp;
         int i=0;
         int j=arr.length-1;
         while(i<j)
