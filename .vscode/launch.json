@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Insertion_Sort",
+      "request": "launch",
+      "mainClass": "Array.Insertion_Sort",
+      "projectName": "DSA_e1606180"
+    },
+    {
+      "type": "java",
+      "name": "Space_Triangle",
+      "request": "launch",
+      "mainClass": "Space_Triangle",
+      "projectName": "DSA_e1606180"
+    },
+    {
+      "type": "java",
+      "name": "Reverse_Array",
+      "request": "launch",
+      "mainClass": "Arrays.Reverse_Array",
+      "projectName": "DSA_e1606180"
+    },
+    {
+      "type": "java",
+      "name": "Merge_Two_Sorted_Array",
+      "request": "launch",
+      "mainClass": "Arrays.Merge_Two_Sorted_Array",
+      "projectName": "DSA_e1606180"
+    },
+    {
+      "type": "java",
       "name": "Two_Sum_Better_Approach",
       "request": "launch",
       "mainClass": "Two_Sum_Better_Approach",

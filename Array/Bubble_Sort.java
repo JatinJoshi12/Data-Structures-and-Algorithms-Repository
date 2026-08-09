@@ -1,4 +1,5 @@
-public class Bubble_Sort 
+package Array;
+public class Bubble_Sort
 {
     public static void main(String[] args) 
     {

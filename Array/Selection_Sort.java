@@ -1,3 +1,4 @@
+package Array;
 public class Selection_Sort {
     public static void main(String[] args) {
         int[] arr={1,6,5,4,3,2};

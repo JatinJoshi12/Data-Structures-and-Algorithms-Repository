@@ -1,3 +1,4 @@
+package Array;
 import java.util.*;
 public class Two_Sum_Better_Approach {
     public static void main(String[] args) {
